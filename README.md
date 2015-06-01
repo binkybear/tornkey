@@ -10,8 +10,8 @@ If you are looking for a more refined websocket keylogger I would point you to [
 
 ## Prerequesites
 
-[Tornado web](https://github.com/tornadoweb/tornado)
-Python 2.7
+* [Tornado web](https://github.com/tornadoweb/tornado)
+* Python 2.7
 
 ## Installation
 ```bash
@@ -26,7 +26,7 @@ Modify the file static/js/key.js with the port number of the webserver unless yo
 
 ## Running
 ```bash
-python server.py [port number]
+python server.py [optional port number]
 ```
 
-[img]http://i.imgur.com/YSmiLSV.gif[/img]
+![Basic usage and testing](http://i.imgur.com/YSmiLSV.gif)
